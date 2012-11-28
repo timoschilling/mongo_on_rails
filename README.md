@@ -8,8 +8,6 @@ A Rails Railtie that use the Mongo Instrumenter API to log the Mongo runtime int
 
 Add this line to your application's Gemfile:
 
-    # currently we need a specific version of the mongo driver, until 1.7.2 is released
-    gem 'mongo', :git => "git://github.com/mongodb/mongo-ruby-driver.git", :commit => "7eac82b"
     gem 'mongo_on_rails'
 
 And then execute:

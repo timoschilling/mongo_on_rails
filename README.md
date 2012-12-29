@@ -1,4 +1,4 @@
-# MongoOnRails
+# Mongo on Rails
 
 A Rails Railtie that use the Mongo Instrumenter API to log the Mongo runtime into the Rails Controller Runtime Logger like:
 
